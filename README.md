@@ -1,2 +1,2 @@
 # TypeScriptDictionary
-A dictionary class for TypeScript
+A dictionary class in TypeScript
